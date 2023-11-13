@@ -2,7 +2,7 @@
 # <center> 김지은 </center>
 
 
-![Alt text](https://img.allurekorea.com/allure/2023/08/style_64d0b9fd307d8-768x1024.jpg)
+![Alt text](https://mblogthumb-phinf.pstatic.net/MjAyMjAxMjVfMjAy/MDAxNjQzMTAyOTk2NjE0.gw_H_jjBM64svaftcnheR6-mHHlmGOyrr6htAuxPETsg.8JJSQNEA5HX2WmrshjZ-VjmJWqhmgE40Qm5csIud9VUg.JPEG.minziminzi128/IMG_7374.JPG?type=w800)
 <img scr=" https://health.chosun.com/site/data/img_dir/2023/07/17/2023071701753_0.jpg">
 
 
