@@ -3,7 +3,7 @@
 # <center> 김지은 </center>
 
 
-
+![Alt text](%EA%B3%A0%EC%96%91%EC%9D%B4.png)
 <img scr=" %EA%B3%A0%EC%96%91%EC%9D%B4.png" >
 
 
