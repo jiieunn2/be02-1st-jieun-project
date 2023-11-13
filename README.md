@@ -4,7 +4,7 @@
 
 
 ![Alt text](%EA%B3%A0%EC%96%91%EC%9D%B4.png)
-<img scr=" C:\kim\고양이.png">
+<img scr="C:\kim\고양이.png" >
 
 
 ## MBTI 😻 
