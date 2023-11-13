@@ -3,7 +3,7 @@
 # <center> 김지은 </center>
 
 
-![Alt text](%EA%B3%A0%EC%96%91%EC%9D%B4.png)
+![Alt text](https://health.chosun.com/site/data/img_dir/2023/07/17/2023071701753_0.jpg)
 <img scr=" https://health.chosun.com/site/data/img_dir/2023/07/17/2023071701753_0.jpg" >
 
 
