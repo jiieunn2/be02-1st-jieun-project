@@ -4,7 +4,7 @@
 
 
 ![Alt text](https://health.chosun.com/site/data/img_dir/2023/07/17/2023071701753_0.jpg)
-<img scr=" https://health.chosun.com/site/data/img_dir/2023/07/17/2023071701753_0.jpg" >
+<img scr=" https://health.chosun.com/site/data/img_dir/2023/07/17/2023071701753_0.jpg">
 
 
 ## MBTI 😻 
